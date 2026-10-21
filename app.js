@@ -13,7 +13,7 @@ app.get('/', (req, res) => {
       </head>
       <body>
         <h1>Segundo Projeto - Desenvolvimento de Software em Nuvem</h1>
-        <p>Professor: Américo Sampaio</p>
+        <p>Professor: Manoel Carvalho</p>
         <nav>
           <a href="/sobre">Sobre o Projeto</a> | 
           <a href="/integrantes">Integrantes</a>
