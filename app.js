@@ -54,7 +54,7 @@ app.get('/integrantes', (req, res) => {
       <body>
         <h1>Integrantes da Equipe</h1>
         <ul>
-          <li>Seu Nome</li>
+          <li>Manoel Carvalho</li>
         </ul>
         <a href="/">Voltar para Home</a>
       </body>
